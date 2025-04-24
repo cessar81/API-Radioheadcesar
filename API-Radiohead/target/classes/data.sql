@@ -1,0 +1,11 @@
+INSERT INTO song (id, title, duration, release_year, details) VALUES
+                                                                  (RANDOM_UUID(), 'Creep', 238, 1992, 'Uno de los mayores éxitos de la banda, lanzado en su álbum debut "Pablo Honey".'),
+                                                                  (RANDOM_UUID(), 'Karma Police', 240, 1997, 'Parte del icónico álbum "OK Computer", conocido por su letra crítica y sonido atmosférico.'),
+                                                                  (RANDOM_UUID(), 'No Surprises', 229, 1997, 'Canción melancólica con una melodía calmada y una letra profunda, del álbum "OK Computer".'),
+                                                                  (RANDOM_UUID(), 'Paranoid Android', 386, 1997, 'Una de las composiciones más complejas y aclamadas de la banda.'),
+                                                                  (RANDOM_UUID(), 'Fake Plastic Trees', 290, 1995, 'Balada emotiva de su álbum "The Bends", con una fuerte crítica al consumismo.'),
+                                                                  (RANDOM_UUID(), 'Everything In Its Right Place', 251, 2000, 'Canción experimental que abre el álbum "Kid A", mostrando su evolución sonora.'),
+                                                                  (RANDOM_UUID(), 'Idioteque', 242, 2000, 'Canción electrónica con un ritmo frenético y una atmósfera inquietante, parte de "Kid A".'),
+                                                                  (RANDOM_UUID(), 'Reckoner', 267, 2007, 'Del álbum "In Rainbows", una canción elegante y minimalista con una instrumentación delicada.'),
+                                                                  (RANDOM_UUID(), 'Lotus Flower', 305, 2011, 'Destacada por su sonido electrónico y la inconfundible voz de Thom Yorke, del álbum "The King of Limbs".'),
+                                                                  (RANDOM_UUID(), 'Burn The Witch', 220, 2016, 'Canción con influencias orquestales y una letra política, del álbum "A Moon Shaped Pool".');
